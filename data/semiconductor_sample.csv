@@ -1,0 +1,4 @@
+date,lot_id,oxide_thickness,etch_rate,defect_count,yield
+2026-01-01,LOT001,102.1,1.20,3,98.5
+2026-01-02,LOT002,101.7,1.18,5,97.8
+2026-01-03,LOT003,103.0,1.22,2,99.0
