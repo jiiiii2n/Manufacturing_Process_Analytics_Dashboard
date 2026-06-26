@@ -1,3 +1,10 @@
 !git add .
 !git commit -m "feat: add line chart"
 !git push
+
+새로운 기능	feat: add line chart
+버그 수정	fix: correct Cp calculation
+코드 정리	refactor: simplify data loader
+문서 수정	docs: update README
+스타일 변경	style: format code
+성능 개선	perf: optimize chart rendering
